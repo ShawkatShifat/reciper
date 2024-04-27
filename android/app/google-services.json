@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347815826958",
+    "project_id": "reciper-82f1b",
+    "storage_bucket": "reciper-82f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347815826958:android:a30c4606dc8a6a18a78e5f",
+        "android_client_info": {
+          "package_name": "jdm.apps.reciper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6gmEp4ZwBBjUUnH6LSCauzQ7yOZj_rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
